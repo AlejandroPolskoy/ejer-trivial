@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.trivia_item {
+  border-radius: 8px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin: 20px auto;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color:cadetblue;
+}
+
+a:hover {
+  cursor: pointer;
+  color: red;
+}
